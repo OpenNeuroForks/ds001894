@@ -1,0 +1,35 @@
+{
+    "BIDSVersion": "1.2.0",
+    "License": "CCO",
+    "Name": "Longitudinal Brain Correlates of Multisensory Lexical Processing in Children",
+    "ReferencesAndLinks": [
+        "Weiss Y & Booth JR (in press). Neural correlates of the lexicality effect in children. Brain and Language.",
+        "Younger JW, Tucker-Drob E & Booth JR (in press). Longitudinal changes in reading network connectivity related to skill improvement. Neuroimage, 158, 90-98.",
+        "Gullick MM, Demir-Lira E & Booth JR (2016). Reading skill–fractional anisotropy relationships in visuospatial tracts diverge depending on socioeconomic status. Developmental Science, 19, 672-684.",
+        "Cao F, Brennan C & Booth JR (2015). The brain adapts to orthography with experience: Evidence from English and Chinese. Developmental Science, 18, 785-798.",
+        "Gullick MM & Booth JR (2015). The direct segment of the arcuate fasciculus is predictive of longitudinal reading change. Developmental Cognitive Neuroscience, 13, 68-74. (PMCID:  PMC4480913)",
+        "McNorgan C & Booth JR (2015). Skill dependent audiovisual integration in the fusiform induces repetition suppression. Brain and Language, 141, 110-123. (PMCID: PMC4303511)",
+        "McNorgan C, Awati N, Desroches A & Booth JR (2014). Multimodal lexical processing in auditory cortex is literacy skill-dependent. Cerebral Cortex, 24, 2464-2475. (PMCID: PMC4128706)",
+        "Gullick MM & Booth JR (2014). Individual differences in crossmodal brain activity predict arcuate fasisculus connectivity in developing readers. Journal of Cognitive Neuroscience, 26, 1331-1346. (PMCID: PMC4828929)",
+        "Brennan C, Cao F, Pedroareana-Leal N, McNorgan C & Booth JR (2013). Reading acquisition reorganizes the phonological awareness network only in alphabetic systems. Human Brain Mapping, 34, 3354-3368. (PMCID: PMC3537870)",
+        "McNorgan C, Randazzo-Wagner M & Booth JR (2013). Cross-modal integration in the brain is related to phonological awareness only in typical readers, not in those with reading difficulty. Frontiers in Human Neuroscience, 7, 388. (PMCID: PMC3719029)"
+    ],
+    "HowToAcknowledge": "",
+    "Funding": [
+        "This research was supported by HD04204 from the National Institute of Child Health and Human Development to James R. Booth."
+    ],
+    "Authors": [
+        "Christine Brennan",
+        "Ozlem Ece Demir-Lira",
+        "Amy Desroches",
+        "Clara Ekerdt",
+        "Margaret M. Gullick",
+        "Marisa Lytle",
+        "Chris McNorgan",
+        "Melissa Randazzo-Wagner",
+        "Yael Weiss",
+        "Jessica Wise Younger",
+        "James R. Booth"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001894.v1.1.2"
+}
