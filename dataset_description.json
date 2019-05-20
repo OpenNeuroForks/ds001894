@@ -15,7 +15,9 @@
         "McNorgan C, Randazzo-Wagner M & Booth JR (2013). Cross-modal integration in the brain is related to phonological awareness only in typical readers, not in those with reading difficulty. Frontiers in Human Neuroscience, 7, 388. (PMCID: PMC3719029)"
     ],
     "HowToAcknowledge": "",
-    "Funding": "This research was supported by HD04204 from the National Institute of Child Health and Human Development to James R. Booth.",
+    "Funding": [
+        "This research was supported by HD04204 from the National Institute of Child Health and Human Development to James R. Booth."
+    ],
     "Authors": [
         "Christine Brennan",
         "Ozlem Ece Demir-Lira",
@@ -28,5 +30,6 @@
         "Yael Weiss",
         "Jessica Wise Younger",
         "James R. Booth"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001894.v1.1.0"
 }
