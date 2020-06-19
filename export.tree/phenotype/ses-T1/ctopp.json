@@ -1,0 +1,52 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Comprehensive Test of Phonological Processing (CTOPP)",
+    "TermURL": "http://alpha.fdu.edu/psychology/comprehensive_test_of_phonologic.htm",
+    "Citation": "Wagner, R. K., Torgesen, J. K., & Rashotte, C. A. (1999). Comprehensive test of phonological processing. Austin, TX: PRO-ED"
+  },
+  "CTOPP_EL_raw": {
+    "Description": "Elision subtest raw score"
+  },
+  "CTOPP_EL_StS": {
+    "Description": "Elision subtest standard score"
+  },
+  "CTOPP_BW_raw": {
+    "Description": "Blending words subtest raw score"
+  },
+  "CTOPP_BW_StS": {
+    "Description": "Blending words subtest standard score"
+  },
+  "CTOPP_MD_raw": {
+    "Description": "Memory for Digits subtest raw score"
+  },
+  "CTOPP_MD_StS": {
+    "Description": "Memory for Digits subtest standard score"
+  },
+  "CTOPP_NR_raw": {
+    "Description": "Nonword repetition subtest raw score"
+  },
+  "CTOPP_NR_StS": {
+    "Description": "Nonword repetition subtest standard score"
+  },
+  "CTOPP_RD_raw": {
+    "Description": "Rapid digit nameing subtest raw score"
+  },
+  "CTOPP_RD_StS": {
+    "Description": "Rapid digit naming subtest standard score"
+  },
+  "CTOPP_RL_raw": {
+    "Description": "Rapid letter naming subtest raw score"
+  },
+  "CTOPP_RL_ScS": {
+    "Description": "Rapid letter naming subtest scaled score"
+  },
+  "CTOPP_PhonAwareness _Comp": {
+    "Description": "Phonemic awareness composite score"
+  },
+  "CTOPP_PhonemicMemory_Comp": {
+    "Description": "Phonemic memory composite score"
+  },
+  "CTOPP_RapidNaming _Comp": {
+    "Description": "Rapid naming composite score"
+  }
+}
