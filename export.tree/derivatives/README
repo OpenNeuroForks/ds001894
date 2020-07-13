@@ -1,0 +1,3 @@
+dwi_qc/ contains pdf output from XNAT quality report adapted by Justin Blaber from Lauzon et al. (2013), Version topup_eddy_preprocess_V1_1_0
+
+mriqc/ contains pdf and csv output from MRIQC version 0.11.0, https://mriqc.readthedocs.io/en/stable/, Esteban, O. et al. (2017)
