@@ -1,0 +1,22 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Test of Word Reading Efficiency (TOWRE)",
+    "TermURL": "http://www.cognitiveatlas.org/task/Test_of_Word_Reading_Efficiency",
+    "Citation": "Torgesen, J. K., Wagner, R. K., & Rashotte, C. A. (1999). TOWRE: test of word reading efficiency. Tex: The Psychological Corporation."
+  },
+  "TOWRE_SW_Raw": {
+    "Description": "Sight word efficiency subtest raw score"
+  },
+  "TOWRE_SW_StS": {
+    "Description": "Sight word efficiency subtest standard score"
+  },
+  "TOWRE_PD_Raw": {
+    "Description": "Phonemic decoding efficiency subtest raw score"
+  },
+  "TOWRE_PD_StS": {
+    "Description": "Phonemic decoding efficiency subtest standard score"
+  },
+  "TOWRE_Total_StS": {
+    "Description": "Word reading efficiency total standard score"
+  }
+}
